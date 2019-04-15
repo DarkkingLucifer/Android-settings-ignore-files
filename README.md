@@ -1,4 +1,3 @@
-# Android-settings-ignore-files
 # Android 设置忽略文件
 
 [版权所有，转载注明](https://github.com/DarkkingLucifer/Android-settings-ignore-files)
