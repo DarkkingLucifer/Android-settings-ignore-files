@@ -12,8 +12,11 @@
 点击右侧的【+】进行添加，【-】删除。
 
 Android Studio默认给出了三种忽略方式：
+
 1.忽略指定的文件【Ignore specified file】
+
 2.忽略文件夹下所有文件【Ignore all files under】
+
 3.忽略符合匹配规则的文件【Ignore all files matching】
 
 ![图片.png](https://upload-images.jianshu.io/upload_images/3722198-1ef5520176b62ea8.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
