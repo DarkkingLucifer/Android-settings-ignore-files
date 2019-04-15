@@ -1,7 +1,7 @@
 # Android-settings-ignore-files
 # Android 设置忽略文件
 
-[版权所有，转载注明]()
+[版权所有，转载注明](https://github.com/DarkkingLucifer/Android-settings-ignore-files)
 >每次新建项目都要去百度一下操作步骤，不如自己写一个以后都看自己的。如有问题还请大佬们在评论出指出，谢谢。
 
 ### 1.打开忽略文件设置路径
